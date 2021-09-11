@@ -1,0 +1,14 @@
+2021-09-11
+/usr list
+bin
+games
+include
+lib
+lib32
+lib64
+libexec
+libx32
+local
+sbin
+share
+src
